@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, Welcome!
 
-I am Dhawal Palaiya<!--(https://raw.githubusercontent.com/nikxherrera/banner/main/img/nikka.png)-->
+<!--(https://raw.githubusercontent.com/nikxherrera/banner/main/img/nikka.png)-->
 
 Hello!👋🏻 My name is **Dhawal Palaiya**. I am from NIT Jalandhar taking BTech in Information Technology. 🏫
 
