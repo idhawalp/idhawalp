@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 Hello!👋🏻 My name is **Dhawal Palaiya**. I am from NIT Jalandhar taking BTech in Information Technology. 🏫
 
-I have a huge interest in AIML and Data Sceince📝 as well coding👩‍💻! Currently studying ⚛️a lot of things and being a succesful AIML and Data Science specialist. 
+I have a huge interest in ML and Data Sceince📝 as well coding👩‍💻! Currently studying ⚛️a lot of things and being a succesful Machine Learning and Data Science specialist. 
 
 I love to join different community and competition that involve creating something for the society! 🙋  
 
 **Skills:**  
-Community Management | Computer Science | Data Science | Artificial Intelligence 
+Community Management | Computer Science | Data Science | Machine Learning 
 
 **Tools:**   
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>]()  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>]()  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>]()  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='reactjs' height='40'>]()  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>]()  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'>]() [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql' height='40'>]()  [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>]() 
